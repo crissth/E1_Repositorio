@@ -99,6 +99,7 @@ def separar(lista):
 pares, impares = separar(numeros)
 print(pares)
 print(impares)
-  
-  
-   
+
+
+
+ANA CRISTINA CAVAZOS OYERVIDEZ
